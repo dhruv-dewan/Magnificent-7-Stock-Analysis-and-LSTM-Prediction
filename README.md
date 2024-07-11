@@ -1,3 +1,5 @@
-# CMSC320-Final-Project--Anish-Dhruv-Adi
+# Magnificent-7-Stock-Analysis-and-LSTM-Prediction
 
-Dataset: https://www.kaggle.com/datasets/datasnaek/chess/data
+Data Science Final Project
+
+View HTML Tutorial: AnishNandyala.github.io
